@@ -1,0 +1,1 @@
+User-agent: *\nAllow: /\n\nSitemap: https://corevalin-offer-fi.vercel.app/sitemap.xml\n
